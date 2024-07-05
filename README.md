@@ -1,8 +1,5 @@
 # codsoft_3
 Tic-tac-toe
-Sure! Here's the README text explaining the Tic-Tac-Toe game implementation:
-
----
 
 # Tic-Tac-Toe Game with Minimax Algorithm
 
@@ -39,4 +36,4 @@ This project implements a Tic-Tac-Toe game where the user can play against an AI
 - The user is prompted to enter their move, and the AI will respond with its move.
 - The game continues until there is a winner or the board is full.
 
-This setup provides a basic implementation of a Tic-Tac-Toe game with an intelligent AI opponent, making the game challenging and engaging.
+
